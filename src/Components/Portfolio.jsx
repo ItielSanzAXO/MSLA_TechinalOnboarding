@@ -52,7 +52,7 @@ const projectList = [
     title: "GitHub Codespaces and Azure Static Web Apps",
     description:
       "Repository of the workshop of GitHub Codespaces and Azure Static Web Apps.",
-      url: "https://github.com/ItielSanzAXO/SATechnicalOnboarding.git",
+      url: "https://github.com/ItielSanzAXO/SATechnicalOnboarding1",
   },
 ];
 
